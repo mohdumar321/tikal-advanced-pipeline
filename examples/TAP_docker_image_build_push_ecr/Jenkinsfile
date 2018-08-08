@@ -10,7 +10,7 @@ pipeline
         VERSION = 'latest'
         PROJECT = 'ecr_aws_test_umar'
         IMAGE = 'ecr_aws_test_umar:latest'
-        ECRURL = 'http://231938700547.dkr.ecr.eu-central-1.amazonaws.com'
+        ECRURL = 'http://xxxxxx.dkr.ecr.eu-central-1.amazonaws.com'
         ECRCRED = 'ecr:eu-central-1:ecr_aws_test_umar'
     }
     stages
